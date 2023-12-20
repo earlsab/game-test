@@ -1,3 +1,6 @@
+TileMap
+ParallaxLayer
+ParallaxBackground
 AnimationPlayer
 Camera2D
 Panel
