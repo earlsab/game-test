@@ -1,20 +1,13 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1703038525
+::res://::1703042333
 icon.svg::CompressedTexture2D::6901602421026160797::1702961626::1702961631::1::::<><>::
 main.gd::GDScript::-1::1702962308::0::1::::<>Node2D<>::
-main.tscn::PackedScene::3503759040690553140::1703027987::0::1::::<><>::res://main.gd
+main.tscn::PackedScene::3503759040690553140::1703042262::0::1::::<><>::res://main.gd
+README.md::TextFile::-1::1703041941::0::1::::<><>::
 world.tscn::PackedScene::2529294293300013374::1703027988::0::1::::<><>::uid://b80gbmvldr5ls::::res://Player/Player.tscn
-::res://addons/::1702978616
-::res://addons/godot-git-plugin/::1702978616
-git_plugin.gdextension::GDExtension::-1::1702978616::0::1::::<><>::
-plugin.cfg::TextFile::-1::1702978616::0::1::::<><>::
-THIRDPARTY.md::TextFile::-1::1702978616::0::1::::<><>::
-::res://addons/godot-git-plugin/linux/::1702978616
-::res://addons/godot-git-plugin/macos/::1702978616
-::res://addons/godot-git-plugin/win64/::1702978616
-::res://Player/::1703027988
+::res://Player/::1703042262
 Player.gd::GDScript::-1::1702977586::0::1::::<>CharacterBody2D<>::
-Player.tscn::PackedScene::4754628718575764184::1703027988::0::1::::<><>::res://Player/Player.gd<>uid://m6fh4qxrji58::::res://Sunny-land-files/Graphical Assets/spritesheets/player.png<>uid://b4a4of7kv6wjw::::res://Sunny-land-files/Graphical Assets/sprites/player/idle/player-idle-1.png<>uid://bqlgxul1tddp4::::res://Sunny-land-files/Graphical Assets/sprites/player/idle/player-idle-2.png<>uid://bwkuhtpmkut45::::res://Sunny-land-files/Graphical Assets/sprites/player/idle/player-idle-3.png<>uid://bdjsac3i4xuty::::res://Sunny-land-files/Graphical Assets/sprites/player/idle/player-idle-4.png<>uid://kj0rbwhs70m4::::res://Sunny-land-files/Graphical Assets/sprites/player/jump/player-jump-1.png<>uid://b5chgyf3v6v74::::res://Sunny-land-files/Graphical Assets/sprites/player/jump/player-jump-2.png<>uid://cf6ixyl83a6bl::::res://Sunny-land-files/Graphical Assets/sprites/player/run/player-run-1.png<>uid://2t0f2uexmlih::::res://Sunny-land-files/Graphical Assets/sprites/player/run/player-run-2.png<>uid://gsrc8w7iqhq::::res://Sunny-land-files/Graphical Assets/sprites/player/run/player-run-3.png<>uid://dwx6adrjg0ycv::::res://Sunny-land-files/Graphical Assets/sprites/player/run/player-run-4.png<>uid://dt6oeky0i4xy2::::res://Sunny-land-files/Graphical Assets/sprites/player/run/player-run-5.png<>uid://bapsh3kq0vu8e::::res://Sunny-land-files/Graphical Assets/sprites/player/run/player-run-6.png
+Player.tscn::PackedScene::4754628718575764184::1703042262::0::1::::<><>::res://Player/Player.gd<>uid://m6fh4qxrji58::::res://Sunny-land-files/Graphical Assets/spritesheets/player.png<>uid://b4a4of7kv6wjw::::res://Sunny-land-files/Graphical Assets/sprites/player/idle/player-idle-1.png<>uid://bqlgxul1tddp4::::res://Sunny-land-files/Graphical Assets/sprites/player/idle/player-idle-2.png<>uid://bwkuhtpmkut45::::res://Sunny-land-files/Graphical Assets/sprites/player/idle/player-idle-3.png<>uid://bdjsac3i4xuty::::res://Sunny-land-files/Graphical Assets/sprites/player/idle/player-idle-4.png<>uid://kj0rbwhs70m4::::res://Sunny-land-files/Graphical Assets/sprites/player/jump/player-jump-1.png<>uid://b5chgyf3v6v74::::res://Sunny-land-files/Graphical Assets/sprites/player/jump/player-jump-2.png<>uid://cf6ixyl83a6bl::::res://Sunny-land-files/Graphical Assets/sprites/player/run/player-run-1.png<>uid://2t0f2uexmlih::::res://Sunny-land-files/Graphical Assets/sprites/player/run/player-run-2.png<>uid://gsrc8w7iqhq::::res://Sunny-land-files/Graphical Assets/sprites/player/run/player-run-3.png<>uid://dwx6adrjg0ycv::::res://Sunny-land-files/Graphical Assets/sprites/player/run/player-run-4.png<>uid://dt6oeky0i4xy2::::res://Sunny-land-files/Graphical Assets/sprites/player/run/player-run-5.png<>uid://bapsh3kq0vu8e::::res://Sunny-land-files/Graphical Assets/sprites/player/run/player-run-6.png
 ::res://sunny-land/::1702962634
 ::res://sunny-land/assets/::1702962634
 ::res://sunny-land/assets/atlas/::1702962634
